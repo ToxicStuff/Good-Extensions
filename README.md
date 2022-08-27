@@ -4,7 +4,6 @@ Extension are good things to Short Code (idk how to explain lol)
 
 ## IUserExtension
 IUser is Target Player
-How to use:
 * APIUser Selected_APIUser = IUserExtension.GetAPIUser();
 * VRCPlayer Selected_VRCPlayer = IUserExtension.GetVRCPlayer();
 * ApiAvatar Selected_ApiAvatar = IUserExtension.GetApiAvatar();
