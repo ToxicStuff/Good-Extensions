@@ -1,6 +1,5 @@
 ## Extensions
-For VRChat (Ported to Quest Live)
-Extension are good things to Short Code (idk how to explain lol)
+For VRChat (Ported to Quest)
 
 ## IUserExtension
 IUser is Target Player
