@@ -1,3 +1,7 @@
+## License
+If you are using it, credit me!
+[GNU GPLv3 license](LICENSE)
+
 ## Extensions
 For VRChat (Ported to Quest)
 
